@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HrvRecovery/HrvRecovery.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/HrvRecovery.Tests/HrvRecovery.Tests.csproj" />
+  </Folder>
+</Solution>
